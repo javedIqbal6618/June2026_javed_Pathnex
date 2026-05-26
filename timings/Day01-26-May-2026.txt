@@ -7,6 +7,15 @@
 # 1 hours English speaking/watching movies
 # 2 hours - 2 set question
 
+Today Working
+devops first lecture watching
+Day01 code copy and rewrite on hand-on 
+
+
+
+
+
+
 ## Tomorrow's Task
 # ELK, Kafka, Terraform reviiosn
 # 1 hour coding
